@@ -16,6 +16,7 @@ The project utilizes the following datasets:
 - `train.csv` - Weekly sales data for each store.
 - `stores.csv` - Store details (size, location, type, etc.).
 - `features.csv` - External economic data (CPI, fuel prices, etc.).
+- `test.csv` - Used for testing a ML model.
 
 ## 🚀 Installation & Setup
 ### 1️⃣ Prerequisites
